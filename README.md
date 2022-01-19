@@ -15,7 +15,7 @@ It mainly implements the principle code of Transformer, and uses Transformer to 
     
 2. train model
 
-            python main.py --config config/Hyperparameter.yml --mode train
+            python main.py --config config/Hyperparameter.yml --mode train_and_evaluate
       
         print part of the training process
             
